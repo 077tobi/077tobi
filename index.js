@@ -9,7 +9,9 @@ app.use(bodyParser.json());
 // Dados dos novos episódios (substitua pelo seu JSON real)
 let novosEpisodios = [
   {
-    
+    "nome": "One Piece Episodio 1121",
+    "capa": "7f6ffaa6bb0b408017b62254211691b5.jpg",
+    "link": "https://get.atv2.net/m.php?token=ZXdkUWJma2tQOW5uOVhnTUJ3RkFWcnZhU3ZCbkgrQzFCYTFYU3BsT2h5TVcrK0hXZWFpRUFCNzhHYjVKNnYrc05OandMQXVqZTltSzBVOURNdEpYcnp5RytUVzRpd0NGWFM2WVJTN2NnV2k4QkVQTjhtakRqeUZUdU1KOGcrUURDdHJnRi9yWUNCT0pyQUE2VkFzUEFOMWlzTnFIeEVSMS9yZE00Ri82clZFUThJQzhQNkFmUXpsdDZTL3dhQ01V&qh=sd" 
   },
   // ... (adicione os outros episódios aqui)
 ];
